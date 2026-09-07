@@ -1,0 +1,4 @@
+﻿  course 5 project 1 (stone - papier - scissor).cpp
+C:\Users\pc\Desktop\projects\C++\course 5 project 1 (stone - papier - scissor)\course 5 project 1 (stone - papier - scissor)\course 5 project 1 (stone - papier - scissor).cpp(38): warning C4715: 'Choice': not all control paths return a value
+C:\Users\pc\Desktop\projects\C++\course 5 project 1 (stone - papier - scissor)\course 5 project 1 (stone - papier - scissor)\course 5 project 1 (stone - papier - scissor).cpp(93): warning C4715: 'CheckWinner': not all control paths return a value
+  course 5 project 1 (stone - papier - scissor).vcxproj -> C:\Users\pc\Desktop\projects\C++\course 5 project 1 (stone - papier - scissor)\x64\Debug\course 5 project 1 (stone - papier - scissor).exe
