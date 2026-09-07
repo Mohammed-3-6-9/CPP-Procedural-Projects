@@ -19,9 +19,9 @@ A console-based multi-round game where the player competes against the computer.
 * Supports starting a new game after completing a match.
 * Uses console colors to indicate round results.
 
-**Location:** `course 5 project 1 (stone - papier - scissor)`
+**Location:** [Project Folder](./course%205%20project%201%20(stone%20-%20papier%20-%20scissor))
 
-**Source Code:** `course 5 project 1 (stone - papier - scissor).cpp`
+**Source Code:** [Main Source File](./course%205%20project%201%20(stone%20-%20papier%20-%20scissor)/course%205%20project%201%20(stone%20-%20papier%20-%20scissor)/course%205%20project%201%20(stone%20-%20papier%20-%20scissor).cpp)
 
 ---
 
@@ -52,9 +52,9 @@ A console-based arithmetic quiz game that allows the player to customize the dif
 * Displays a detailed final result.
 * Supports restarting the game.
 
-**Location:** `course 5 project 2 (math game)`
+**Location:** [Project Folder](./course%205%20project%202%20(math%20game))
 
-**Source Code:** `course 5 project 2 (math game).cpp`
+**Source Code:** [Main Source File](./course%205%20project%202%20(math%20game)/course%205%20project%202%20(math%20game)/course%205%20project%202%20(math%20game).cpp)
 
 ---
 
